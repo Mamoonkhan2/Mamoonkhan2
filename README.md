@@ -13,10 +13,7 @@ I am currently working on project most of them completed <br>I am looking to con
 ![](https://github-readme-stats.vercel.app/api?username=Mamoonkhan2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Mamoonkhan2&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mamoonkhan2&theme=dark&hide_border=false&layout=compact&hide=html,css)
-![]<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamoonkhan2&theme=dark&hide_border=false&layout=compact&hide=html,css,scss" target="_blank" rel="noopener noreferrer nofollow"></a>
-![]<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamoonkhan2&theme=dark&hide_border=false&layout=compact&size_weight=0&count_weight=1" target="_blank" rel="noopener noreferrer nofollow"></a>
-![]<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamoonkhan2&theme=dark&hide_border=false&layout=compact&langs_count=8&hide=python,cython,c,c%2B%2B,xslt,jupyter%20notebook" target="_blank" rel="noopener noreferrer nofollow"></a>
-![]<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamoonkhan2&theme=dark&hide_border=false&layout=compact&exclude_repo=some-python-heavy-repo" target="_blank" rel="noopener noreferrer nofollow"></a>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mamoonkhan2&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
