@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I am currently working on project most of them completed <br>I am looking to contribut in github to help devolper<br>I am curently lerning intermidiade level typescript<br>Ask me about to build your site<br>I aldo have experice in programin from 5 yrear also learn dsa in c++ <br>And know some of react natve and advance level javascript<br>
+I am currently working on project most of them completed <br>I am looking to contribut in github to help devolper<br>I am curently lerning intermidiade level typescript<br>Ask me about to build your site<br>I aldo have experice in programin from 5 yrear also learn dsa in c++ <br>And know some of react natve and advance Level javascript<br>
 
 
 ## 🌐 Socials:
